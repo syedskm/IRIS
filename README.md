@@ -50,16 +50,6 @@ The project is built using the following libraries and tools:
 
 **Jupyter Notebook:** For an interactive and reproducible development environment.
 
-**Project Structure**
-The repository is organized to be clean and easy to navigate.
-
-.
-├── notebooks/
-│   └── IRIS.ipynb   # Main Jupyter Notebook with all the code
-├── data/
-│   └── iris.csv                  # The Iris dataset
-├── README.md                     # This file
-
 
 ## Results
 After training and evaluating multiple models, the Support Vector Machine (SVM) classifier achieved the highest accuracy.
