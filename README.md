@@ -40,13 +40,13 @@ Model Performance Metrics: Using metrics like Accuracy, Confusion Matrix, and a 
 
 The project is built using the following libraries and tools:
 
-**Python: ** The core programming language.
+**Python:** The core programming language.
 
 **Pandas & NumPy:** For data manipulation and numerical operations.
 
 **Matplotlib & Seaborn:** For data visualization.
 
-**Scikit-learn: **For machine learning model implementation and evaluation.
+**Scikit-learn:** For machine learning model implementation and evaluation.
 
 **Jupyter Notebook:** For an interactive and reproducible development environment.
 
